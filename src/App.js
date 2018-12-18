@@ -17,7 +17,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React  hhh 233
+            Learn React  hhh 233 
+            wait for sig
           </a>
         </header>
       </div>
