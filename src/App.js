@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React 
             new mod
+            mod new
           </a>
         </header>
       </div>
