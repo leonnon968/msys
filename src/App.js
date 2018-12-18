@@ -18,7 +18,8 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React  hhh 233 
-            wait for sig
+            wait for sig  
+            mod 2
           </a>
         </header>
       </div>
